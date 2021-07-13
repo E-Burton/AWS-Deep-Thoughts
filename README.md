@@ -9,6 +9,8 @@ Objective - Replace the back-end API to existing application that allows users t
 * [Credits](#credits)
 
 ## Tools Implemented
+* Node.js
+* Express.js
 * AWS (IAM, S3, DynamoDB, EC2)
 * AWS CLI
 * `aws-sdk`, `multer`, `uuid`, and `pm2` npm packages
